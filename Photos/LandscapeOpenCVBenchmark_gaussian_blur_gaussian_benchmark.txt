@@ -1,0 +1,198 @@
+
+--- Summary (Kernel Size: 1 x 1) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:    1.792 ms
+Gaussian Blur average:      0.316 ms
+First-run overhead:        +1.476 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 1 x 1 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k001.jpg
+
+--- Summary (Kernel Size: 5 x 5) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:    4.847 ms
+Gaussian Blur average:      3.230 ms
+First-run overhead:        +1.617 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 5 x 5 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k005.jpg
+
+--- Summary (Kernel Size: 7 x 7) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:    3.173 ms
+Gaussian Blur average:      3.040 ms
+First-run overhead:        +0.133 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 7 x 7 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k007.jpg
+
+--- Summary (Kernel Size: 9 x 9) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:    3.994 ms
+Gaussian Blur average:      3.362 ms
+First-run overhead:        +0.632 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 9 x 9 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k009.jpg
+
+--- Summary (Kernel Size: 15 x 15) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:    2.943 ms
+Gaussian Blur average:      2.822 ms
+First-run overhead:        +0.120 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 15 x 15 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k015.jpg
+
+--- Summary (Kernel Size: 29 x 29) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   11.034 ms
+Gaussian Blur average:     10.718 ms
+First-run overhead:        +0.316 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 29 x 29 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k029.jpg
+
+--- Summary (Kernel Size: 43 x 43) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   15.954 ms
+Gaussian Blur average:     16.703 ms
+First-run overhead:        -0.749 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 43 x 43 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k043.jpg
+
+--- Summary (Kernel Size: 57 x 57) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   21.121 ms
+Gaussian Blur average:     21.725 ms
+First-run overhead:        -0.603 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 57 x 57 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k057.jpg
+
+--- Summary (Kernel Size: 71 x 71) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   32.239 ms
+Gaussian Blur average:     28.213 ms
+First-run overhead:        +4.026 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 71 x 71 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k071.jpg
+
+--- Summary (Kernel Size: 85 x 85) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   32.837 ms
+Gaussian Blur average:     34.829 ms
+First-run overhead:        -1.992 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 85 x 85 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k085.jpg
+
+--- Summary (Kernel Size: 101 x 101) ---
+Image size:              3840 x 2160
+Convolution method: cv2.GaussianBlur() — OpenCV optimized separable path
+
+Gaussian Blur first run:   40.469 ms
+Gaussian Blur average:     42.872 ms
+First-run overhead:        -2.404 ms
+
+Sobel Filter  first run:   19.520 ms
+Sobel Filter  average:     10.849 ms
+
+--- Reference Numbers ---
+Gaussian Kernel Size: 101 x 101 pixels
+Sobel Kernel Size:    3 x 3 pixels
+# Of Runs:            100
+
+Saved: /Users/aayansharma/Documents/CMU/Research Project/Photos/LandscapeOpenCVBenchmark_gaussian_blur_gaussian_k101.jpg
