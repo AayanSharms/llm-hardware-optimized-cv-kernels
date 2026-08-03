@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aayansharma/Documents/CMU/Research Project/Code/c_implementations/gaussian_blur'
+relocations:     []
+...
