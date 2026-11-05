@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Office lock files
+.~lock.*#
+
+# Build output
+Code/c_implementations/build/
+*.dSYM/
+*.o
+Code/c_implementations/gaussian_blur_nonseparable_3x3
+Code/metal_implementation/gaussian_blur_gpu
+
+# Python
+__pycache__/
+*.pyc
+
+# Benchmark output images
+blur_outputs/
