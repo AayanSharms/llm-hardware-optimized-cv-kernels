@@ -1,4 +1,6 @@
 # OpenCV's own sources are kept for reference only; don't count them in the repo language stats
 Code/metal_implementation/*.cpp linguist-vendored
+# Compiler-generated assembly output
+*.s linguist-generated
 *.xlsx binary
 *.pdf binary
